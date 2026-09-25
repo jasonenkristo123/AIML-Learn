@@ -101,3 +101,4 @@ booking.tambah_ruangan(GedungF("F02", "Ruang Kelas F2", 100))
 booking.tambah_ruangan(GedungG("G01", "Ruang AI F2", 100, 2))
 booking.tambah_ruangan(GedungG("G02", "Ruang AI F2", 100, 2))
 
+
